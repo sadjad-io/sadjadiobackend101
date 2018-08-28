@@ -1,6 +1,6 @@
 # Day3 Class
 
-In the day 3 we talk about **HTTP** / FTP and protocols and then about **Sessions** and **Cookies** and why we use them !
+In day 3 we talk about **HTTP** / FTP and protocols and then about **Sessions** and **Cookies** and why we use them !
 
 
 # Run Projects
