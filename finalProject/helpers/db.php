@@ -1,4 +1,5 @@
 <?php
+
 require_once '../libs/Medoo.php';
 use Medoo\Medoo;
  
@@ -8,4 +9,5 @@ $database = new Medoo([
     'server' => $config['database']['server'],
     'username' => $config['database']['username'],
     'password' => $config['database']['password'],
+    'charset' => 'utf8'
 ]);
