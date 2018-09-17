@@ -22,6 +22,10 @@ switch ($routes[0]) {
         require_once('../logics/profile.php');
         break;
 
+     case '/addbook':
+        require_once('../logics/addbook.php');
+        break;
+
     case '/login':
         require_once('../logics/login.php');
         break;
